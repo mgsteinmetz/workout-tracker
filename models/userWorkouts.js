@@ -15,6 +15,11 @@ const workoutSchema = new Schema({
                 trim: true,
                 required: 'Enter duration of exercise'
             },
+            name: {
+                type: String,
+                trim: true,
+                required: 'Enter name of exercise'
+            },
             date: {
                 type: Date,
                 default: Date.now
