@@ -19,7 +19,7 @@ Click [HERE](https://quiet-fjord-71871.herokuapp.com/) to VIEW my deployed appli
 To install, travel to my [GitHub](https://github.com/mgsteinmetz) , and use my code! 
 
 ## Usage 
-To USE my code
+To USE my application, travel to this link: [app](https://quiet-fjord-71871.herokuapp.com/). From there you should be able to use every feature that is available, and you can start saving you own workouts!
 
 ## License
 My project uses the MIT License
